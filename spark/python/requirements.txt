@@ -1,0 +1,5 @@
+hashlib
+pandas>=1.2.3
+pyspark==3.2
+adal>=1.2.7
+openai
